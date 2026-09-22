@@ -1,0 +1,2 @@
+# Dependencies untuk proyek Capstone
+# Data collection menggunakan library bawaan Python
